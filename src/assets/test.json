@@ -1,0 +1,6210 @@
+{
+  "meta": {
+    "metatags": {
+      "title": "Subway - Rambuteau livre depuis Paris 3ème - Temple - Commandez avec Deliveroo",
+      "titleSocial": "Subway - Rambuteau sur Deliveroo",
+      "description": "Les meilleurs restaurants du coin vous attendent sur Deliveroo. Faites-vous livrer dès maintenant !",
+      "descriptionSocial": "Toujours là pour vous régaler, Subway - Rambuteau est situé en plein cœur de .NeighborhoodNameParis 3ème - Temple. Commandez et faites-vous livrer en environ 32 minutes !",
+      "image": "https://f.roocdn.com/images/menus/281178/header-image.jpg?width=1200&height=630&fit=crop",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    "restaurant": {
+      "id": "189844",
+      "name": "Subway - Rambuteau",
+      "hasOrderNotes": false,
+      "tipMessage": null,
+      "menuDisabled": false,
+      "testSite": false,
+      "deliversToCustomerLocation": true,
+      "menuId": "281178",
+      "drnId": "a7691373-40ba-412f-b212-e6a8fd377b4a",
+      "currencyCode": "EUR",
+      "currencySymbol": "€",
+      "location": {
+        "cityId": 6,
+        "zoneId": 44,
+        "address": {
+          "address1": "23 Rue Beaubourg,75003 PARIS, Paris, 75003",
+          "postCode": null,
+          "neighborhood": "Paris 3ème - Temple",
+          "city": "paris",
+          "country": "FR"
+        }
+      }
+    },
+    "customerLocation": {
+      "lat": 48.86925003491342,
+      "lon": 2.36120006069541,
+      "city": "Paris",
+      "neighborhood": "Paris 10ème - Gare du Nord",
+      "postcode": "",
+      "cityId": 6,
+      "zoneId": 44,
+      "geohash": "u09wj8rk5bqr"
+    },
+    "categories": [
+      {
+        "id": "5633286",
+        "name": "Prix Tasty  😋"
+      },
+      {
+        "id": "5633285",
+        "name": "En ce moment"
+      },
+      {
+        "id": "5633283",
+        "name": "Menus SUB30®  🥖"
+      },
+      {
+        "id": "5633282",
+        "name": "Menus SUB15® et Wraps 🥖 🌯"
+      },
+      {
+        "id": "5633281",
+        "name": "Menus Salades  🥗"
+      },
+      {
+        "id": "5633278",
+        "name": "SUB30®  🥖"
+      },
+      {
+        "id": "5633277",
+        "name": "SUB15® et Wraps 🥖 🌯"
+      },
+      {
+        "id": "5633276",
+        "name": "Salades 🥗"
+      },
+      {
+        "id": "5633275",
+        "name": "Chips 🍿"
+      },
+      {
+        "id": "128138061",
+        "name": "Crèmes Glacées Ben & Jerry's 🍦"
+      },
+      {
+        "id": "5633274",
+        "name": "Desserts 🍪"
+      },
+      {
+        "id": "5633273",
+        "name": "Boissons 🥤"
+      }
+    ]
+  },
+  "layoutGroups": [
+    {
+      "id": "281178",
+      "header": null,
+      "layouts": [
+        {
+          "key": "5633286",
+          "header": "Prix Tasty  😋",
+          "subheader": ""
+        },
+        {
+          "key": "5633285",
+          "header": "En ce moment",
+          "subheader": ""
+        },
+        {
+          "key": "5633283",
+          "header": "Menus SUB30®  🥖",
+          "subheader": ""
+        },
+        {
+          "key": "5633282",
+          "header": "Menus SUB15® et Wraps 🥖 🌯",
+          "subheader": ""
+        },
+        {
+          "key": "5633281",
+          "header": "Menus Salades  🥗",
+          "subheader": ""
+        },
+        {
+          "key": "5633278",
+          "header": "SUB30®  🥖",
+          "subheader": ""
+        },
+        {
+          "key": "5633277",
+          "header": "SUB15® et Wraps 🥖 🌯",
+          "subheader": ""
+        },
+        {
+          "key": "5633276",
+          "header": "Salades 🥗",
+          "subheader": ""
+        },
+        {
+          "key": "5633275",
+          "header": "Chips 🍿",
+          "subheader": ""
+        },
+        {
+          "key": "128138061",
+          "header": "Crèmes Glacées Ben & Jerry's 🍦",
+          "subheader": ""
+        },
+        {
+          "key": "5633274",
+          "header": "Desserts 🍪",
+          "subheader": ""
+        },
+        {
+          "key": "5633273",
+          "header": "Boissons 🥤",
+          "subheader": ""
+        }
+      ]
+    },
+    {
+      "id": "info-modal",
+      "header": "Informations",
+      "layouts": [
+        {
+          "key": "8f151b8d45a6",
+          "header": "Allergènes",
+          "subheader": null
+        },
+        {
+          "key": "97b4a80d86a4",
+          "header": "Lieu",
+          "subheader": null
+        },
+        {
+          "key": "a5955dbfe095",
+          "header": "Notes",
+          "subheader": null
+        }
+      ]
+    }
+  ],
+  "header": {
+    "title": "Subway - Rambuteau",
+    "layoutId": "header_d6f1eb75-4f23-4b4b-aebf-733eb2a5c732",
+    "image": {
+      "typeName": "Image",
+      "altText": "",
+      "url": "https://f.roocdn.com/images/menus/281178/header-image.jpg?width={w}&height={h}&auto=webp&format=jpg&fit=crop&v=1664547596",
+      "type": "REMOTE"
+    },
+    "headerTags": {
+      "trackingId": "header_tags_aeb90d20-789b-4c47-8640-992efb91bc21",
+      "lines": [
+        {
+          "typeName": "UITextLine",
+          "key": "9893dbbdb4cc",
+          "align": "START",
+          "spans": [
+            {
+              "typeName": "UISpanText",
+              "key": "e4c2b2439a6f",
+              "text": "Sandwichs",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#2E3333",
+                "name": "PRIMARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "19c82abfd1b0",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "f73c71b94ed5",
+              "text": "·",
+              "size": "SMALL",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#2E3333",
+                "name": "PRIMARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "1cbe641a2be3",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "6f26167df2b3",
+              "text": "Salades",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#2E3333",
+                "name": "PRIMARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "8deb07cded57",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "2b87cd03370b",
+              "text": "·",
+              "size": "SMALL",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#2E3333",
+                "name": "PRIMARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "759acb1ad875",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "f08bf0a9527b",
+              "text": "Options Vegan",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#2E3333",
+                "name": "PRIMARY"
+              },
+              "isBold": false
+            }
+          ]
+        },
+        {
+          "typeName": "UITextLine",
+          "key": "30e4501e9d99",
+          "align": "START",
+          "spans": [
+            {
+              "typeName": "UISpanIcon",
+              "key": "a9debb4e57e9",
+              "icon": {
+                "name": "STAR_FILL",
+                "size": "SMALL",
+                "color": {
+                  "hex": "#00717C",
+                  "name": null
+                }
+              },
+              "iconTooltip": null
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "30ef3ca39f79",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "7f965f78d9f7",
+              "text": "4.3 Très bien",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#00717C",
+                "name": null
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "586ca67cbfc8",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "d4ffff816dae",
+              "text": "(500+)",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#585C5C",
+                "name": "SECONDARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "1a089e8cb6ac",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "50319ebb1e79",
+              "text": "·",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#585C5C",
+                "name": "SECONDARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "521cdd37d305",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "6dfc162a8f65",
+              "text": "À 1.03 km",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#585C5C",
+                "name": "SECONDARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "1a089e8cb6ac",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "50319ebb1e79",
+              "text": "·",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#585C5C",
+                "name": "SECONDARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "521cdd37d305",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "6a89d2c600d0",
+              "text": "Livraison offerte",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#585C5C",
+                "name": "SECONDARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "067d3d0ed9cb",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "57a37a130e8a",
+              "text": "·",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#585C5C",
+                "name": "SECONDARY"
+              },
+              "isBold": false
+            },
+            {
+              "typeName": "UISpanSpacer",
+              "key": "5a24fedfa680",
+              "width": "X_SMALL"
+            },
+            {
+              "typeName": "UISpanText",
+              "key": "efe258dcc29d",
+              "text": "10,00 € minimum",
+              "size": "MEDIUM",
+              "trackingId": null,
+              "target": null,
+              "color": {
+                "hex": "#585C5C",
+                "name": "SECONDARY"
+              },
+              "isBold": false
+            }
+          ]
+        }
+      ]
+    },
+    "headerInfoRows": [
+      {
+        "key": "94ef7b4e4c9b",
+        "image": {
+          "typeName": "Icon",
+          "name": "INFO_CIRCLE",
+          "size": "MEDIUM",
+          "color": {
+            "hex": "#BAC3C3",
+            "name": "TERTIARY"
+          }
+        },
+        "lines": [
+          {
+            "typeName": "UITextLine",
+            "key": "93c0df7016e4",
+            "align": "START",
+            "spans": [
+              {
+                "typeName": "UISpanText",
+                "key": "a73200e6aa98",
+                "text": "Informations",
+                "size": "MEDIUM",
+                "trackingId": null,
+                "target": null,
+                "color": {
+                  "hex": "#2E3333",
+                  "name": "PRIMARY"
+                },
+                "isBold": false
+              }
+            ]
+          },
+          {
+            "typeName": "UITextLine",
+            "key": "3dd216de3931",
+            "align": "START",
+            "spans": [
+              {
+                "typeName": "UISpanText",
+                "key": "1cfacba49e18",
+                "text": "Allergènes et plus",
+                "size": "SMALL",
+                "trackingId": null,
+                "target": null,
+                "color": {
+                  "hex": "#585C5C",
+                  "name": "SECONDARY"
+                },
+                "isBold": false
+              }
+            ]
+          }
+        ],
+        "target": {
+          "typeName": "UITargetAction",
+          "action": "SHOW_MODAL",
+          "layoutId": "info-modal",
+          "params": null
+        },
+        "badge": null,
+        "uiTooltip": null,
+        "trackingId": "header_info_rows_info_3c348c8d-08aa-48e0-bd6e-bc447902edab"
+      }
+    ],
+    "banners": [
+      {
+        "typeName": "UIPromoBanner",
+        "key": "c7607fa2bef8",
+        "backgroundColor": {
+          "hex": "#CC3A2F",
+          "name": "OFFER"
+        },
+        "lines": [
+          {
+            "typeName": "UITextLine",
+            "key": "c37b4410605d",
+            "align": "START",
+            "spans": [
+              {
+                "typeName": "UISpanText",
+                "key": "a1631ed95eb6",
+                "text": "-25 % sur tout le menu",
+                "size": "MEDIUM",
+                "trackingId": null,
+                "target": null,
+                "color": {
+                  "hex": "#FFFFFF",
+                  "name": "INVERTED"
+                },
+                "isBold": true
+              },
+              {
+                "typeName": "UISpanSpacer",
+                "key": "74ce3053719e",
+                "width": "X_SMALL"
+              },
+              {
+                "typeName": "UISpanText",
+                "key": "2e478ff281c7",
+                "text": "-",
+                "size": "MEDIUM",
+                "trackingId": null,
+                "target": null,
+                "color": {
+                  "hex": "#FFFFFF",
+                  "name": "INVERTED"
+                },
+                "isBold": false
+              },
+              {
+                "typeName": "UISpanSpacer",
+                "key": "217cbeff8d82",
+                "width": "X_SMALL"
+              },
+              {
+                "typeName": "UISpanText",
+                "key": "e7beee12d469",
+                "text": "Pour les commandes de ‪35 €‬ min. Voir conditions",
+                "size": "MEDIUM",
+                "trackingId": null,
+                "target": null,
+                "color": {
+                  "hex": "#FFFFFF",
+                  "name": "INVERTED"
+                },
+                "isBold": false
+              }
+            ]
+          }
+        ],
+        "image": {
+          "typeName": "Icon",
+          "name": "TAG",
+          "size": "SMALL",
+          "color": {
+            "hex": "#FFFFFF",
+            "name": "INVERTED"
+          }
+        },
+        "badge": null
+      }
+    ],
+    "favouritesOverlay": null,
+    "showFulfillmentRowCta": true
+  },
+  "items": [
+    {
+      "id": "65866924",
+      "categoryId": "5633286",
+      "name": "Röstis x16",
+      "description": "16 x Galettes de pomme de terre ",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 950,
+        "formatted": "9,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 713,
+        "formatted": "7,13 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Röstis x16",
+        "url": "https://f.roocdn.com/images/menu_items/65866924/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009563"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866925",
+      "categoryId": "5633286",
+      "name": "Röstis x9",
+      "description": "9 x Galettes de pomme de terre ",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 518,
+        "formatted": "5,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Röstis x9",
+        "url": "https://f.roocdn.com/images/menu_items/65866925/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009563"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866926",
+      "categoryId": "5633286",
+      "name": "Röstis x6",
+      "description": "6 x Galettes de pomme de terre ",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 450,
+        "formatted": "4,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 338,
+        "formatted": "3,38 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Röstis x6",
+        "url": "https://f.roocdn.com/images/menu_items/65866926/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009635"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866927",
+      "categoryId": "5633286",
+      "name": "Crousti Chicken x16",
+      "description": "16 x Poulet panés dans des nachos",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 950,
+        "formatted": "9,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 713,
+        "formatted": "7,13 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Crousti Chicken x16",
+        "url": "https://f.roocdn.com/images/menu_items/65866927/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009563"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866928",
+      "categoryId": "5633286",
+      "name": "Crousti Chicken x9",
+      "description": "9 x Poulet panés dans des nachos  ",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 518,
+        "formatted": "5,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Crousti Chicken x9",
+        "url": "https://f.roocdn.com/images/menu_items/65866928/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009563"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866929",
+      "categoryId": "5633286",
+      "name": "Crousti Chicken x6",
+      "description": "6 x Poulet panés dans des nachos ",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 450,
+        "formatted": "4,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 338,
+        "formatted": "3,38 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Crousti Chicken x6",
+        "url": "https://f.roocdn.com/images/menu_items/65866929/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009635"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950072",
+      "categoryId": "5633285",
+      "name": "Menu SUB30® Texan Steakhouse 🥓🧀",
+      "description": "1 SUB30® Texan Steakhouse* + 1 boisson 50 cl + 1 cookie ou chips.\n*Un pain mozza & cheddar, du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. Légumes au choix.\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1430,
+        "formatted": "14,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1073,
+        "formatted": "10,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Texan Steakhouse 🥓🧀",
+        "url": "https://f.roocdn.com/images/menu_items/1131950072/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19009001",
+        "19009091",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950073",
+      "categoryId": "5633285",
+      "name": "Menu SUB15® Texan Steakhouse 🥓🧀",
+      "description": "1 SUB15® Texan Steakhouse* + 1 boisson 50 cl + 1 cookie ou chips.\n*Un pain mozza & cheddar, du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. Légumes au choix.\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1110,
+        "formatted": "11,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 833,
+        "formatted": "8,33 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Texan Steakhouse 🥓🧀",
+        "url": "https://f.roocdn.com/images/menu_items/1131950073/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008939",
+        "19009091",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950074",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Texan Steakhouse 🥓🧀",
+      "description": "1 SUB30® Texan Steakhouse* + 1 boisson 50 cl + 1 cookie ou chips.\n*Un pain mozza & cheddar, du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. Légumes au choix.\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1430,
+        "formatted": "14,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1073,
+        "formatted": "10,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Texan Steakhouse 🥓🧀",
+        "url": "https://f.roocdn.com/images/menu_items/1131950074/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19009001",
+        "19009091",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "181862492",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Veggie Quinoa Kale 🌱",
+      "description": "1 sandwich 30cm Veggie Quinoa Kale (Galette de quinoa et de chou kale) + 1 boisson 50cl + 1 dessert ou chips.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1390,
+        "formatted": "13,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1043,
+        "formatted": "10,43 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Veggie Quinoa Kale 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/181862492/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "131180967",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Steakhouse Melt ",
+      "description": "1 Sandwich 30cm Steakhouse Melt (Préparation à base de bœuf façon grill.) + 1 boisson 50cl + 1 dessert ou chips.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1410,
+        "formatted": "14,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1058,
+        "formatted": "10,58 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Steakhouse Melt ",
+        "url": "https://f.roocdn.com/images/menu_items/131180967/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": true,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866902",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Subway Steak(****) & Cheese®",
+      "description": "1 sandwich 30cm Subway Steak(****) & Cheese®  (Steak(****), oignons, poivrons et fromage) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1430,
+        "formatted": "14,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1073,
+        "formatted": "10,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Subway Steak(****) & Cheese®",
+        "url": "https://f.roocdn.com/images/menu_items/65866902/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866903",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Bœuf Pastrami",
+      "description": "1 sandwich 30cm Bœuf Pastrami (Chiffonnade de bœuf au poivre) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1430,
+        "formatted": "14,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1073,
+        "formatted": "10,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Bœuf Pastrami",
+        "url": "https://f.roocdn.com/images/menu_items/65866903/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866904",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Poulet(*) Teriyaki",
+      "description": "1 sandwich 30cm Poulet(*) Teriyaki (Poulet(*) dans une marinade Teriyaki) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1410,
+        "formatted": "14,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1058,
+        "formatted": "10,58 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Poulet(*) Teriyaki",
+        "url": "https://f.roocdn.com/images/menu_items/65866904/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": true,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866905",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Poulet(*) Tikka",
+      "description": "1 sandwich 30cm Poulet(*) Tikka (Dés de poulet(*) épicés) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1410,
+        "formatted": "14,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1058,
+        "formatted": "10,58 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Poulet(*) Tikka",
+        "url": "https://f.roocdn.com/images/menu_items/65866905/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": true,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866907",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Italien B.M.T.®",
+      "description": "1 sandwich 30cm Italien B.M.T.® (Jambon(***), salami, pepperoni) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1390,
+        "formatted": "13,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1043,
+        "formatted": "10,43 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Italien B.M.T.®",
+        "url": "https://f.roocdn.com/images/menu_items/65866907/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": true,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866908",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Subway Melt™",
+      "description": "1 sandwich 30cm Subway Melt™ (Dinde(**), jambon(***), bacon et fromage) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1410,
+        "formatted": "14,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1058,
+        "formatted": "10,58 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Subway Melt™",
+        "url": "https://f.roocdn.com/images/menu_items/65866908/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866909",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Galette de légumes 🌱",
+      "description": "1 sandwich 30cm Galette de légumes (Galette végan de soja et de légumes) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1370,
+        "formatted": "13,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1028,
+        "formatted": "10,28 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Galette de légumes 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866909/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866911",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Jambon(***)",
+      "description": "1 sandwich 30cm Jambon (***) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1310,
+        "formatted": "13,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 983,
+        "formatted": "9,83 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Jambon(***)",
+        "url": "https://f.roocdn.com/images/menu_items/65866911/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866912",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Dinde(**)",
+      "description": "1 sandwich 30cm Dinde (**) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1310,
+        "formatted": "13,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 983,
+        "formatted": "9,83 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Dinde(**)",
+        "url": "https://f.roocdn.com/images/menu_items/65866912/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866913",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Thon",
+      "description": "1 sandwich 30cm Thon (Préparation de thon émietté et mayonnaise allégée) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1390,
+        "formatted": "13,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1043,
+        "formatted": "10,43 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Thon",
+        "url": "https://f.roocdn.com/images/menu_items/65866913/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": true,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866914",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Poulet(*)",
+      "description": "1 sandwich 30cm Poulet (*) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1370,
+        "formatted": "13,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1028,
+        "formatted": "10,28 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Poulet(*)",
+        "url": "https://f.roocdn.com/images/menu_items/65866914/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "223825918",
+      "categoryId": "5633283",
+      "name": "Menu SUB30® Veggie Delite 🌱",
+      "description": "1 sandwich 30cm Veggie Delite (Assortiment de légumes au choix) + 1 boisson 50cl + 1 dessert ou chips.\"",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1250,
+        "formatted": "12,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 938,
+        "formatted": "9,38 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB30® Veggie Delite 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/223825918/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950075",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Texan Steakhouse 🥓🧀",
+      "description": "1 SUB15® Texan Steakhouse* + 1 boisson 50 cl + 1 cookie ou chips.\n*Un pain mozza & cheddar, du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. Légumes au choix.\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1110,
+        "formatted": "11,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 833,
+        "formatted": "8,33 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Texan Steakhouse 🥓🧀",
+        "url": "https://f.roocdn.com/images/menu_items/1131950075/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008939",
+        "19009091",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "181862493",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Veggie Quinoa Kale 🌱",
+      "description": "1 sandwich 15cm Veggie Quinoa Kale (Galette de quinoa et de chou kale) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1090,
+        "formatted": "10,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 818,
+        "formatted": "8,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Veggie Quinoa Kale 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/181862493/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "131187855",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Steakhouse Melt ",
+      "description": "1 Sandwich 15cm Steakhouse Melt (Préparation à base de bœuf façon grill.) + 1 boisson 50cl + 1 dessert ou chips.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1120,
+        "formatted": "11,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 840,
+        "formatted": "8,40 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Steakhouse Melt ",
+        "url": "https://f.roocdn.com/images/menu_items/131187855/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866887",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Subway Steak(****) & Cheese® ",
+      "description": "1 sandwich 15cm Subway Steak(****) & Cheese®  (Steak(****), oignons, poivrons et fromage) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1160,
+        "formatted": "11,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 870,
+        "formatted": "8,70 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Subway Steak(****) & Cheese® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866887/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866888",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Bœuf Pastrami",
+      "description": "1 sandwich 15cm Bœuf Pastrami (Chiffonnade de bœuf au poivre) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1160,
+        "formatted": "11,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 870,
+        "formatted": "8,70 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Bœuf Pastrami",
+        "url": "https://f.roocdn.com/images/menu_items/65866888/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866889",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Poulet(*) Teriyaki",
+      "description": "1 sandwich 15cm Poulet(*) Teriyaki (Poulet(*) dans une marinade Teriyaki) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1120,
+        "formatted": "11,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 840,
+        "formatted": "8,40 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Poulet(*) Teriyaki",
+        "url": "https://f.roocdn.com/images/menu_items/65866889/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866890",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Poulet(*) Tikka ",
+      "description": "1 sandwich 15cm Poulet(*) Tikka (Dés de poulet(*) épicés) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1120,
+        "formatted": "11,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 840,
+        "formatted": "8,40 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Poulet(*) Tikka ",
+        "url": "https://f.roocdn.com/images/menu_items/65866890/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866892",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Italien B.M.T.® ",
+      "description": "1 sandwich 15cm Italien B.M.T.® (Jambon(***), salami, pepperoni) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1090,
+        "formatted": "10,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 818,
+        "formatted": "8,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Italien B.M.T.® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866892/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866893",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Subway Melt™",
+      "description": "1 sandwich 15cm Subway Melt™ (Dinde(**), jambon(***), bacon et fromage) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1120,
+        "formatted": "11,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 840,
+        "formatted": "8,40 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Subway Melt™",
+        "url": "https://f.roocdn.com/images/menu_items/65866893/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "223825921",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Veggie Delite 🌱",
+      "description": "1 sandwich 15cm Veggie Delite (Assortiment de légumes au choix) + 1 boisson 50cl + 1 dessert ou chips.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 970,
+        "formatted": "9,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 728,
+        "formatted": "7,28 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Veggie Delite 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/223825921/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866894",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Galette de légumes 🌱",
+      "description": "1 sandwich 15cm Galette de légumes (Galette végan de soja et de légumes) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1060,
+        "formatted": "10,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 795,
+        "formatted": "7,95 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Galette de légumes 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866894/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866896",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Jambon(***)",
+      "description": "1 sandwich 15cm Jambon (***) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1020,
+        "formatted": "10,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 765,
+        "formatted": "7,65 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Jambon(***)",
+        "url": "https://f.roocdn.com/images/menu_items/65866896/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866897",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Dinde(**)",
+      "description": "1 sandwich 15cm Dinde (**) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1020,
+        "formatted": "10,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 765,
+        "formatted": "7,65 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Dinde(**)",
+        "url": "https://f.roocdn.com/images/menu_items/65866897/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866899",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Poulet(*) ",
+      "description": "1 sandwich 15cm Poulet (*) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1060,
+        "formatted": "10,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 795,
+        "formatted": "7,95 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Poulet(*) ",
+        "url": "https://f.roocdn.com/images/menu_items/65866899/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866898",
+      "categoryId": "5633282",
+      "name": "Menu SUB15® Thon ",
+      "description": "1 sandwich 15cm Thon (Préparation de thon émietté et mayonnaise allégée) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1090,
+        "formatted": "10,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 818,
+        "formatted": "8,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu SUB15® Thon ",
+        "url": "https://f.roocdn.com/images/menu_items/65866898/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950076",
+      "categoryId": "5633281",
+      "name": "Menu Salade Texan Steakhouse 🥓🧀",
+      "description": "1 Salade Texan Steakhouse* + 1 boisson 50 cl + 1 cookie ou chips.\n*Du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. \nLégumes au choix.\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1310,
+        "formatted": "13,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 983,
+        "formatted": "9,83 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": null,
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008939",
+        "19009091",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "608007660",
+      "categoryId": "5633281",
+      "name": "Menu Salade Steakhouse Melt",
+      "description": "1 salade Steakhouse Melt (Préparation à base de bœuf façon grill.)\n+ 1 boisson 50cl + 1 dessert ou chips.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1270,
+        "formatted": "12,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 953,
+        "formatted": "9,53 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": null,
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "181862494",
+      "categoryId": "5633281",
+      "name": "Menu Salade Veggie Quinoa Kale 🌱",
+      "description": "1 salade Veggie Quinoa Kale (Galette de quinoa et de chou kale) + 1 boisson 50cl + 1 dessert ou chips.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1240,
+        "formatted": "12,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 930,
+        "formatted": "9,30 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Veggie Quinoa Kale 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/181862494/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866874",
+      "categoryId": "5633281",
+      "name": "Menu Salade Subway Steak(****) & Cheese® ",
+      "description": "1 salade Subway Steak(****) & Cheese®  (Steak(****), oignons, poivrons et fromage) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1310,
+        "formatted": "13,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 983,
+        "formatted": "9,83 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Subway Steak(****) & Cheese® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866874/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866875",
+      "categoryId": "5633281",
+      "name": "Menu Salade Bœuf Pastrami",
+      "description": "1 salade Bœuf Pastrami (Chiffonnade de bœuf au poivre) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1310,
+        "formatted": "13,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 983,
+        "formatted": "9,83 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Bœuf Pastrami",
+        "url": "https://f.roocdn.com/images/menu_items/65866875/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866876",
+      "categoryId": "5633281",
+      "name": "Menu Salade Poulet(*) Teriyaki",
+      "description": "1 salade Poulet(*) Teriyaki (Poulet(*) dans une marinade Teriyaki) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1270,
+        "formatted": "12,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 953,
+        "formatted": "9,53 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Poulet(*) Teriyaki",
+        "url": "https://f.roocdn.com/images/menu_items/65866876/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866877",
+      "categoryId": "5633281",
+      "name": "Menu Salade Poulet(*) Tikka",
+      "description": "1 salade Poulet(*) Tikka (Dés de poulet(*) épicés) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1270,
+        "formatted": "12,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 953,
+        "formatted": "9,53 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Poulet(*) Tikka",
+        "url": "https://f.roocdn.com/images/menu_items/65866877/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866879",
+      "categoryId": "5633281",
+      "name": "Menu Salade Italien B.M.T.® ",
+      "description": "1 salade Italien B.M.T.® (Jambon(***), salami, pepperoni) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1240,
+        "formatted": "12,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 930,
+        "formatted": "9,30 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Italien B.M.T.® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866879/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866880",
+      "categoryId": "5633281",
+      "name": "Menu Salade Subway Melt™",
+      "description": "1 salade Subway Melt™ (Dinde(**), jambon(***), bacon et fromage) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1270,
+        "formatted": "12,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 953,
+        "formatted": "9,53 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Subway Melt™",
+        "url": "https://f.roocdn.com/images/menu_items/65866880/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866881",
+      "categoryId": "5633281",
+      "name": "Menu Salade Galette de légumes 🌱",
+      "description": "1 salade Galette de légumes (Galette végan de soja et de légumes) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1210,
+        "formatted": "12,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 908,
+        "formatted": "9,08 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Galette de légumes 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866881/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866882",
+      "categoryId": "5633281",
+      "name": "Menu Salade Jambon(***)",
+      "description": "1 salade Jambon (***) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1170,
+        "formatted": "11,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 878,
+        "formatted": "8,78 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Jambon(***)",
+        "url": "https://f.roocdn.com/images/menu_items/65866882/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866883",
+      "categoryId": "5633281",
+      "name": "Menu Salade Dinde(**)",
+      "description": "1 salade Dinde (**) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1170,
+        "formatted": "11,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 878,
+        "formatted": "8,78 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Dinde(**)",
+        "url": "https://f.roocdn.com/images/menu_items/65866883/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866884",
+      "categoryId": "5633281",
+      "name": "Menu Salade Thon",
+      "description": "1 salade Thon (Préparation de thon émietté et mayonnaise allégée) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1240,
+        "formatted": "12,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 930,
+        "formatted": "9,30 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Thon",
+        "url": "https://f.roocdn.com/images/menu_items/65866884/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866885",
+      "categoryId": "5633281",
+      "name": "Menu Salade Poulet(*) ",
+      "description": "1 salade Poulet (*) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1210,
+        "formatted": "12,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 908,
+        "formatted": "9,08 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Poulet(*) ",
+        "url": "https://f.roocdn.com/images/menu_items/65866885/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866886",
+      "categoryId": "5633281",
+      "name": "Menu Salade Veggie Delite® 🌱",
+      "description": "1 salade Veggie Delite® (Assortiment de Légumes) + 1 boisson 50cl + 1 dessert ou chips",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1120,
+        "formatted": "11,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 840,
+        "formatted": "8,40 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Menu Salade Veggie Delite® 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866886/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "19009203",
+        "19009354",
+        "19009347",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950077",
+      "categoryId": "5633278",
+      "name": "SUB30® Texan Steakhouse 🥓🧀",
+      "description": "Un pain mozza & cheddar, du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. Légumes au choix.\r\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1130,
+        "formatted": "11,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 848,
+        "formatted": "8,48 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Texan Steakhouse 🥓🧀",
+        "url": "https://f.roocdn.com/images/menu_items/1131950077/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009001", "19009091"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "181862495",
+      "categoryId": "5633278",
+      "name": "SUB30® Veggie Quinoa Kale 🌱",
+      "description": "Sandwich 30cm, Galette de quinoa et de chou kale",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1060,
+        "formatted": "10,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 795,
+        "formatted": "7,95 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Veggie Quinoa Kale 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/181862495/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "129159049",
+      "categoryId": "5633278",
+      "name": "SUB30® Steakhouse melt ",
+      "description": "1 Sandwich 30cm Steakhouse Melt (Préparation à base de bœuf façon grill.) ",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1080,
+        "formatted": "10,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 810,
+        "formatted": "8,10 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Steakhouse melt ",
+        "url": "https://f.roocdn.com/images/menu_items/129159049/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["124530471", "19009001", "19009091", "19009094"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866855",
+      "categoryId": "5633278",
+      "name": "SUB30® Subway Steak(****) & Cheese® ",
+      "description": "Sandwich 30cm, Steak(****), oignons, poivrons et fromage",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1100,
+        "formatted": "11,00 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 825,
+        "formatted": "8,25 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Subway Steak(****) & Cheese® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866855/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866856",
+      "categoryId": "5633278",
+      "name": "SUB30® Bœuf Pastrami",
+      "description": "Sandwich 30cm, Chiffonnade de bœuf au poivre",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1100,
+        "formatted": "11,00 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 825,
+        "formatted": "8,25 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Bœuf Pastrami",
+        "url": "https://f.roocdn.com/images/menu_items/65866856/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866857",
+      "categoryId": "5633278",
+      "name": "SUB30® Poulet(*) Teriyaki",
+      "description": "Sandwich 30cm, Poulet(*) dans une marinade Teriyaki",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1080,
+        "formatted": "10,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 810,
+        "formatted": "8,10 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Poulet(*) Teriyaki",
+        "url": "https://f.roocdn.com/images/menu_items/65866857/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009354"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866858",
+      "categoryId": "5633278",
+      "name": "SUB30® Poulet(*) Tikka ",
+      "description": "Sandwich 30cm, Dés de poulet(*) épicés",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1080,
+        "formatted": "10,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 810,
+        "formatted": "8,10 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Poulet(*) Tikka ",
+        "url": "https://f.roocdn.com/images/menu_items/65866858/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866860",
+      "categoryId": "5633278",
+      "name": "SUB30® Italien B.M.T.® ",
+      "description": "Sandwich 30cm, Jambon(***), salami, pepperoni",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1060,
+        "formatted": "10,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 795,
+        "formatted": "7,95 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Italien B.M.T.® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866860/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866861",
+      "categoryId": "5633278",
+      "name": "SUB30® Subway Melt™",
+      "description": "Sandwich 30cm, Dinde(**), jambon(***), bacon et fromage",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1080,
+        "formatted": "10,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 810,
+        "formatted": "8,10 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Subway Melt™",
+        "url": "https://f.roocdn.com/images/menu_items/65866861/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866862",
+      "categoryId": "5633278",
+      "name": "SUB30® Galette de légumes 🌱",
+      "description": "Sandwich 30cm, Galette végan de soja et de légumes",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1040,
+        "formatted": "10,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 780,
+        "formatted": "7,80 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Galette de légumes 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866862/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866864",
+      "categoryId": "5633278",
+      "name": "SUB30® Jambon(***)",
+      "description": "Sandwich 30cm, Jambon(***)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 980,
+        "formatted": "9,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 735,
+        "formatted": "7,35 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Jambon(***)",
+        "url": "https://f.roocdn.com/images/menu_items/65866864/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866865",
+      "categoryId": "5633278",
+      "name": "SUB30® Dinde(**)",
+      "description": "Sandwich 30cm, Dinde(**)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 980,
+        "formatted": "9,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 735,
+        "formatted": "7,35 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Dinde(**)",
+        "url": "https://f.roocdn.com/images/menu_items/65866865/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866866",
+      "categoryId": "5633278",
+      "name": "SUB30® Thon ",
+      "description": "Sandwich 30cm, Préparation de thon émietté et mayonnaise allégée",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1060,
+        "formatted": "10,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 795,
+        "formatted": "7,95 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Thon ",
+        "url": "https://f.roocdn.com/images/menu_items/65866866/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866867",
+      "categoryId": "5633278",
+      "name": "SUB30® Poulet(*) ",
+      "description": "Sandwich 30cm, Poulet(*)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1040,
+        "formatted": "10,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 780,
+        "formatted": "7,80 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Poulet(*) ",
+        "url": "https://f.roocdn.com/images/menu_items/65866867/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "223825924",
+      "categoryId": "5633278",
+      "name": "SUB30® Veggie Delite 🌱",
+      "description": "1 sandwich 30cm Veggie Delite (Assortiment de légumes au choix)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 920,
+        "formatted": "9,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB30® Veggie Delite 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/223825924/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "124530471",
+        "19008985",
+        "19009001",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950078",
+      "categoryId": "5633277",
+      "name": "SUB15® Texan Steakhouse 🥓🧀",
+      "description": "Un pain mozza & cheddar, du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. Légumes au choix.\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 810,
+        "formatted": "8,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 608,
+        "formatted": "6,08 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Texan Steakhouse 🥓🧀",
+        "url": "https://f.roocdn.com/images/menu_items/1131950078/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19008939", "19009091"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "181862496",
+      "categoryId": "5633277",
+      "name": "SUB15® Veggie Quinoa Kale 🌱",
+      "description": "Sandwich 15cm, Galette de quinoa et de chou kale",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 710,
+        "formatted": "7,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 533,
+        "formatted": "5,33 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Veggie Quinoa Kale 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/181862496/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "129159590",
+      "categoryId": "5633277",
+      "name": "SUB15® Steakhouse melt ",
+      "description": "1 Sandwich 15cm Steakhouse Melt (Préparation à base de bœuf façon grill.) ",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 730,
+        "formatted": "7,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 548,
+        "formatted": "5,48 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Steakhouse melt ",
+        "url": "https://f.roocdn.com/images/menu_items/129159590/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866840",
+      "categoryId": "5633277",
+      "name": "SUB15® Subway Steak(****) & Cheese® ",
+      "description": "Sandwich 15cm, Steak(****), oignons, poivrons et fromage",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 770,
+        "formatted": "7,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 578,
+        "formatted": "5,78 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Subway Steak(****) & Cheese® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866840/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866841",
+      "categoryId": "5633277",
+      "name": "SUB15® Bœuf Pastrami",
+      "description": "Sandwich 15cm, Chiffonnade de bœuf au poivre",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 770,
+        "formatted": "7,70 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 578,
+        "formatted": "5,78 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Bœuf Pastrami",
+        "url": "https://f.roocdn.com/images/menu_items/65866841/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866845",
+      "categoryId": "5633277",
+      "name": "SUB15® Italien B.M.T.® ",
+      "description": "Sandwich 15cm, Jambon(***), salami, pepperoni",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 710,
+        "formatted": "7,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 533,
+        "formatted": "5,33 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Italien B.M.T.® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866845/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866842",
+      "categoryId": "5633277",
+      "name": "SUB15® Poulet(*) Teriyaki",
+      "description": "Sandwich 15cm, Poulet(*) dans une marinade Teriyaki",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 730,
+        "formatted": "7,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 548,
+        "formatted": "5,48 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Poulet(*) Teriyaki",
+        "url": "https://f.roocdn.com/images/menu_items/65866842/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866843",
+      "categoryId": "5633277",
+      "name": "SUB15® Poulet(*) Tikka ",
+      "description": "Sandwich 15cm, Dés de poulet(*) épicés",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 730,
+        "formatted": "7,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 548,
+        "formatted": "5,48 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Poulet(*) Tikka ",
+        "url": "https://f.roocdn.com/images/menu_items/65866843/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866846",
+      "categoryId": "5633277",
+      "name": "SUB15® Subway Melt™",
+      "description": "Sandwich 15cm, Dinde(**), jambon(***), bacon et fromage",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 730,
+        "formatted": "7,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 548,
+        "formatted": "5,48 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Subway Melt™",
+        "url": "https://f.roocdn.com/images/menu_items/65866846/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866847",
+      "categoryId": "5633277",
+      "name": "SUB15® Galette de légumes 🌱",
+      "description": "Sandwich 15cm, Galette végan de soja et de légumes",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 518,
+        "formatted": "5,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Galette de légumes 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866847/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866849",
+      "categoryId": "5633277",
+      "name": "SUB15® Jambon(***)",
+      "description": "Sandwich 15cm, Jambon(***)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 630,
+        "formatted": "6,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 473,
+        "formatted": "4,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Jambon(***)",
+        "url": "https://f.roocdn.com/images/menu_items/65866849/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866850",
+      "categoryId": "5633277",
+      "name": "SUB15® Dinde(**)",
+      "description": "Sandwich 15cm, Dinde(**)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 630,
+        "formatted": "6,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 473,
+        "formatted": "4,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Dinde(**)",
+        "url": "https://f.roocdn.com/images/menu_items/65866850/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866851",
+      "categoryId": "5633277",
+      "name": "SUB15® Thon ",
+      "description": "Sandwich 15cm, Préparation de thon émietté et mayonnaise allégée",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 710,
+        "formatted": "7,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 533,
+        "formatted": "5,33 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Thon ",
+        "url": "https://f.roocdn.com/images/menu_items/65866851/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866852",
+      "categoryId": "5633277",
+      "name": "SUB15® Poulet(*) ",
+      "description": "Sandwich 15cm, Poulet(*)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 518,
+        "formatted": "5,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Poulet(*) ",
+        "url": "https://f.roocdn.com/images/menu_items/65866852/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "223825927",
+      "categoryId": "5633277",
+      "name": "SUB15® Veggie Delite 🌱",
+      "description": "1 sandwich 15cm Veggie Delite (Assortiment de légumes au choix)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 590,
+        "formatted": "5,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 443,
+        "formatted": "4,43 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "SUB15® Veggie Delite 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/223825927/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008919",
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "1131950079",
+      "categoryId": "5633276",
+      "name": "Salade Texan Steakhouse 🥓🧀",
+      "description": "Un pain mozza & cheddar, du Steakhouse*, une double dose de fromage, du bacon, des oignons caramélisés et de la sauce Baconnaise**. Légumes au choix.\n*Bœuf façon grill, **Sauce végan façon mayo au goût fumé bacon.",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1010,
+        "formatted": "10,10 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 758,
+        "formatted": "7,58 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": null,
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19008939", "19009091", "200419550"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "608007667",
+      "categoryId": "5633276",
+      "name": "Salade Steakhouse Melt",
+      "description": "1 salade Steakhouse Melt (Préparation à base de bœuf façon grill.)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 880,
+        "formatted": "8,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 660,
+        "formatted": "6,60 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": null,
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "181862497",
+      "categoryId": "5633276",
+      "name": "Salade Veggie Quinoa Kale 🌱",
+      "description": "Salade, Galette de quinoa et de chou kale",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 860,
+        "formatted": "8,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 645,
+        "formatted": "6,45 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Veggie Quinoa Kale 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/181862497/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866827",
+      "categoryId": "5633276",
+      "name": "Salade Subway Steak(****) & Cheese® ",
+      "description": "Salade, Steak(****), oignons, poivrons et fromage",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 920,
+        "formatted": "9,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Subway Steak(****) & Cheese® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866827/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866828",
+      "categoryId": "5633276",
+      "name": "Salade Bœuf Pastrami",
+      "description": "Salade, Chiffonnade de bœuf au poivre",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 920,
+        "formatted": "9,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Bœuf Pastrami",
+        "url": "https://f.roocdn.com/images/menu_items/65866828/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866829",
+      "categoryId": "5633276",
+      "name": "Salade Poulet(*) Teriyaki",
+      "description": "Salade, Poulet(*) dans une marinade Teriyaki",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 880,
+        "formatted": "8,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 660,
+        "formatted": "6,60 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Poulet(*) Teriyaki",
+        "url": "https://f.roocdn.com/images/menu_items/65866829/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866830",
+      "categoryId": "5633276",
+      "name": "Salade Poulet(*) Tikka ",
+      "description": "Salade, Dés de poulet(*) épicés",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 880,
+        "formatted": "8,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 660,
+        "formatted": "6,60 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Poulet(*) Tikka ",
+        "url": "https://f.roocdn.com/images/menu_items/65866830/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866832",
+      "categoryId": "5633276",
+      "name": "Salade Italien B.M.T.® ",
+      "description": "Salade, Jambon(***), salami, pepperoni",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 860,
+        "formatted": "8,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 645,
+        "formatted": "6,45 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Italien B.M.T.® ",
+        "url": "https://f.roocdn.com/images/menu_items/65866832/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866833",
+      "categoryId": "5633276",
+      "name": "Salade Subway Melt™",
+      "description": "Salade, Dinde(**), jambon(***), bacon et fromage",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 880,
+        "formatted": "8,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 660,
+        "formatted": "6,60 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Subway Melt™",
+        "url": "https://f.roocdn.com/images/menu_items/65866833/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866834",
+      "categoryId": "5633276",
+      "name": "Salade Galette de légumes 🌱",
+      "description": "Salade, Galette végan de soja et de légumes",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 840,
+        "formatted": "8,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 630,
+        "formatted": "6,30 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Galette de légumes 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866834/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866835",
+      "categoryId": "5633276",
+      "name": "Salade Jambon(***)",
+      "description": "Salade, Jambon(***)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 780,
+        "formatted": "7,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 585,
+        "formatted": "5,85 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Jambon(***)",
+        "url": "https://f.roocdn.com/images/menu_items/65866835/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866836",
+      "categoryId": "5633276",
+      "name": "Salade Dinde(**)",
+      "description": "Salade, Dinde(**)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 780,
+        "formatted": "7,80 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 585,
+        "formatted": "5,85 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Dinde(**)",
+        "url": "https://f.roocdn.com/images/menu_items/65866836/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866837",
+      "categoryId": "5633276",
+      "name": "Salade Thon ",
+      "description": "Salade, Thon mélangé à de la mayonnaise allégée",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 860,
+        "formatted": "8,60 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 645,
+        "formatted": "6,45 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Thon ",
+        "url": "https://f.roocdn.com/images/menu_items/65866837/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866838",
+      "categoryId": "5633276",
+      "name": "Salade Poulet(*) ",
+      "description": "Salade, Poulet(*)",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 840,
+        "formatted": "8,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 630,
+        "formatted": "6,30 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Poulet(*) ",
+        "url": "https://f.roocdn.com/images/menu_items/65866838/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866839",
+      "categoryId": "5633276",
+      "name": "Salade Veggie Delite® 🌱",
+      "description": "Salade, Assortiment de Légumes",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 740,
+        "formatted": "7,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 555,
+        "formatted": "5,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Salade Veggie Delite® 🌱",
+        "url": "https://f.roocdn.com/images/menu_items/65866839/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [
+        "19008985",
+        "19008939",
+        "19009091",
+        "19009094",
+        "200419550"
+      ],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866822",
+      "categoryId": "5633275",
+      "name": "Chips Lay’s Nature",
+      "description": "45 gr",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 250,
+        "formatted": "2,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 188,
+        "formatted": "1,88 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Chips Lay’s Nature",
+        "url": "https://f.roocdn.com/images/menu_items/65866822/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866823",
+      "categoryId": "5633275",
+      "name": "Chips Lay’s Barbecue",
+      "description": "45 gr",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 250,
+        "formatted": "2,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 188,
+        "formatted": "1,88 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Chips Lay’s Barbecue",
+        "url": "https://f.roocdn.com/images/menu_items/65866823/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866825",
+      "categoryId": "5633275",
+      "name": "Doritos Sweet Chili Pepper",
+      "description": "44 gr",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 250,
+        "formatted": "2,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 188,
+        "formatted": "1,88 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Doritos Sweet Chili Pepper",
+        "url": "https://f.roocdn.com/images/menu_items/65866825/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866826",
+      "categoryId": "5633275",
+      "name": "Doritos Nacho Cheese",
+      "description": "44 gr",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 250,
+        "formatted": "2,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 188,
+        "formatted": "1,88 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Doritos Nacho Cheese",
+        "url": "https://f.roocdn.com/images/menu_items/65866826/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "973744009",
+      "categoryId": "128138061",
+      "name": "Ben & Jerry's Cookie Dough 100ml",
+      "description": "🍦 Crème glacée vanille avec des morceaux de pâte de cookie aux pépites de chocolat et des inclusions cacaotées",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 350,
+        "formatted": "3,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 263,
+        "formatted": "2,63 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Ben & Jerry's Cookie Dough 100ml",
+        "url": "https://f.roocdn.com/images/menu_items/973744009/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "973744012",
+      "categoryId": "128138061",
+      "name": "Ben & Jerry's Vanille Pecan Brittle 100ml",
+      "description": "🍦 Crème glacée vanille avec une sauce au caramel salé, des morceaux de pécan caramélisés et des morceaux de gâteau fondant",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 350,
+        "formatted": "3,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 263,
+        "formatted": "2,63 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Ben & Jerry's Vanille Pecan Brittle 100ml",
+        "url": "https://f.roocdn.com/images/menu_items/973744012/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "973744017",
+      "categoryId": "128138061",
+      "name": "Ben & Jerry's Chocolate Fudge Brownie 100ml",
+      "description": "🍦 Crème glacée chocolat avec des morceaux de gâteau fondant au cacao maigre",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 350,
+        "formatted": "3,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 263,
+        "formatted": "2,63 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Ben & Jerry's Chocolate Fudge Brownie 100ml",
+        "url": "https://f.roocdn.com/images/menu_items/973744017/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866806",
+      "categoryId": "5633274",
+      "name": "Cookie Pépites de Chocolat",
+      "description": "Cookie avec des morceaux de chocolat",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 150,
+        "formatted": "1,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 113,
+        "formatted": "1,13 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Cookie Pépites de Chocolat",
+        "url": "https://f.roocdn.com/images/menu_items/65866806/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866807",
+      "categoryId": "5633274",
+      "name": "Cookie Double Chocolat",
+      "description": "Cookie au cacao avec pépites de chocolat et confiseries blanches",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 150,
+        "formatted": "1,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 113,
+        "formatted": "1,13 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Cookie Double Chocolat",
+        "url": "https://f.roocdn.com/images/menu_items/65866807/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866809",
+      "categoryId": "5633274",
+      "name": "Cookie Chocolat blanc & Noix de Macadamia",
+      "description": "Cookie aux noix de macadamia et confiseries blanches",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 150,
+        "formatted": "1,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 113,
+        "formatted": "1,13 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Cookie Chocolat blanc & Noix de Macadamia",
+        "url": "https://f.roocdn.com/images/menu_items/65866809/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866810",
+      "categoryId": "5633274",
+      "name": "Cookie Cheesecake & Framboise",
+      "description": "Cookie saveur gâteau au fromage blanc, avec confiseries blanches et saveur framboise",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 150,
+        "formatted": "1,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 113,
+        "formatted": "1,13 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Cookie Cheesecake & Framboise",
+        "url": "https://f.roocdn.com/images/menu_items/65866810/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866811",
+      "categoryId": "5633274",
+      "name": "Cookie dragées chocolat au lait",
+      "description": "Cookie de pépites de chocolat et dragées colorées",
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 150,
+        "formatted": "1,50 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 113,
+        "formatted": "1,13 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Cookie dragées chocolat au lait",
+        "url": "https://f.roocdn.com/images/menu_items/65866811/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866813",
+      "categoryId": "5633274",
+      "name": "Donut Sucre",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 290,
+        "formatted": "2,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 218,
+        "formatted": "2,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Donut Sucre",
+        "url": "https://f.roocdn.com/images/menu_items/65866813/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "66582530",
+      "categoryId": "5633274",
+      "name": "Pom'Potes Bio 90gr sans sucres ajoutés Pomme Nature",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 230,
+        "formatted": "2,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 173,
+        "formatted": "1,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Pom'Potes Bio 90gr sans sucres ajoutés Pomme Nature",
+        "url": "https://f.roocdn.com/images/menu_items/66582530/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866817",
+      "categoryId": "5633274",
+      "name": "Lot de 3 cookies",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 390,
+        "formatted": "3,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 293,
+        "formatted": "2,93 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Lot de 3 cookies",
+        "url": "https://f.roocdn.com/images/menu_items/65866817/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009698"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866818",
+      "categoryId": "5633274",
+      "name": "Lot de 12 cookies",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 920,
+        "formatted": "9,20 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 690,
+        "formatted": "6,90 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Lot de 12 cookies",
+        "url": "https://f.roocdn.com/images/menu_items/65866818/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["19009645"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "105413099",
+      "categoryId": "5633274",
+      "name": "Lot de 24 cookies",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 1800,
+        "formatted": "18,00 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 1350,
+        "formatted": "13,50 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Lot de 24 cookies",
+        "url": "https://f.roocdn.com/images/menu_items/105413099/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": ["124529560"],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866819",
+      "categoryId": "5633274",
+      "name": "Pom'Potes Bio 90gr sans sucres ajoutés Pomme Fraise",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 230,
+        "formatted": "2,30 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 173,
+        "formatted": "1,73 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Pom'Potes Bio 90gr sans sucres ajoutés Pomme Fraise",
+        "url": "https://f.roocdn.com/images/menu_items/65866819/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866820",
+      "categoryId": "5633274",
+      "name": "Brownie",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 290,
+        "formatted": "2,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 218,
+        "formatted": "2,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Brownie",
+        "url": "https://f.roocdn.com/images/menu_items/65866820/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866789",
+      "categoryId": "5633273",
+      "name": "Pepsi Regular 50cl ",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Pepsi Regular 50cl ",
+        "url": "https://f.roocdn.com/images/menu_items/65866789/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866790",
+      "categoryId": "5633273",
+      "name": "Pepsi Max 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Pepsi Max 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866790/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866791",
+      "categoryId": "5633273",
+      "name": "Oasis Tropical 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Oasis Tropical 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866791/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866792",
+      "categoryId": "5633273",
+      "name": "Pulco Citronnade 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Pulco Citronnade 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866792/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866793",
+      "categoryId": "5633273",
+      "name": "Lipton Ice Tea Pêche 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Lipton Ice Tea Pêche 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866793/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866794",
+      "categoryId": "5633273",
+      "name": "Lipton Green Ice Tea Citron vert Menthe 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Lipton Green Ice Tea Citron vert Menthe 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866794/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866795",
+      "categoryId": "5633273",
+      "name": "Lipton Ice Tea Framboise 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Lipton Ice Tea Framboise 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866795/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866796",
+      "categoryId": "5633273",
+      "name": "Orangina 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Orangina 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866796/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866797",
+      "categoryId": "5633273",
+      "name": "7UP Free 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "7UP Free 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866797/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866798",
+      "categoryId": "5633273",
+      "name": "7Up Mojito 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "7Up Mojito 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866798/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866799",
+      "categoryId": "5633273",
+      "name": "Schweppes Agrumes 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 340,
+        "formatted": "3,40 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 255,
+        "formatted": "2,55 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Schweppes Agrumes 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866799/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866800",
+      "categoryId": "5633273",
+      "name": "Volvic Nature 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 290,
+        "formatted": "2,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 218,
+        "formatted": "2,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Volvic Nature 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866800/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866801",
+      "categoryId": "5633273",
+      "name": "Volvic Citron 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 290,
+        "formatted": "2,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 218,
+        "formatted": "2,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Volvic Citron 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866801/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866802",
+      "categoryId": "5633273",
+      "name": "Volvic Juicy Fraise 50cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 290,
+        "formatted": "2,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 218,
+        "formatted": "2,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Volvic Juicy Fraise 50cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866802/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866804",
+      "categoryId": "5633273",
+      "name": "Tropicana Pomme 25cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 290,
+        "formatted": "2,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 218,
+        "formatted": "2,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Tropicana Pomme 25cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866804/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    },
+    {
+      "id": "65866805",
+      "categoryId": "5633273",
+      "name": "Tropicana Orange 25cl",
+      "description": null,
+      "productMeta": null,
+      "productMetaShort": null,
+      "productInformation": "",
+      "dietaryInformation": null,
+      "allergyDescription": [],
+      "nutritionalInfo": null,
+      "price": {
+        "code": "EUR",
+        "fractional": 290,
+        "formatted": "2,90 €"
+      },
+      "priceDiscounted": {
+        "code": "EUR",
+        "fractional": 218,
+        "formatted": "2,18 €"
+      },
+      "inStorePrice": false,
+      "percentageDiscounted": null,
+      "image": {
+        "typeName": "Image",
+        "altText": "Tropicana Orange 25cl",
+        "url": "https://f.roocdn.com/images/menu_items/65866805/item-image.jpg?width={w}&height={h}&auto=webp&format=jpg&v=1664547596&fit=crop",
+        "type": "REMOTE"
+      },
+      "popular": false,
+      "available": true,
+      "maxSelection": null,
+      "modifierGroupIds": [],
+      "isSignatureExclusive": false,
+      "itemRating": null,
+      "favouritesOverlay": null
+    }
+  ],
+  "layoutNavigation": [
+    {
+      "label": "Prix Tasty  😋",
+      "layoutId": "5633286"
+    },
+    {
+      "label": "En ce moment",
+      "layoutId": "5633285"
+    },
+    {
+      "label": "Menus SUB30®  🥖",
+      "layoutId": "5633283"
+    },
+    {
+      "label": "Menus SUB15® et Wraps 🥖 🌯",
+      "layoutId": "5633282"
+    },
+    {
+      "label": "Menus Salades  🥗",
+      "layoutId": "5633281"
+    },
+    {
+      "label": "SUB30®  🥖",
+      "layoutId": "5633278"
+    },
+    {
+      "label": "SUB15® et Wraps 🥖 🌯",
+      "layoutId": "5633277"
+    },
+    {
+      "label": "Salades 🥗",
+      "layoutId": "5633276"
+    },
+    {
+      "label": "Chips 🍿",
+      "layoutId": "5633275"
+    },
+    {
+      "label": "Crèmes Glacées Ben & Jerry's 🍦",
+      "layoutId": "128138061"
+    },
+    {
+      "label": "Desserts 🍪",
+      "layoutId": "5633274"
+    },
+    {
+      "label": "Boissons 🥤",
+      "layoutId": "5633273"
+    }
+  ]
+}

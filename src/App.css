@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+@import url("./fonts.css");
+
+html {
+  font-family: "Stratos Deliveroo Web";
+}
+body {
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.header-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.restaurant-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.restaurant-left-container {
+  flex: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.restaurant-right-container {
+  flex: 1;
+}
+.restaurant-container img {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+
+.categories-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.categorie-container {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.elem-container {
+  flex: 1;
+  flex-shrink: 0;
+  border: 1px solid black;
+}
+
+.block-categories {
+  display: flex;
 }
