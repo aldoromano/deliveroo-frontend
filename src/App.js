@@ -6,6 +6,7 @@ import logo from "./assets/images/logo-teal.svg";
 function App() {
   const [data, setData] = useState({});
   const [isLoading, setIsLoading] = useState(true);
+  const [tabOrder, setTabOrder] = useState([]);
 
   const fetchData = async () => {
     const response = await axios.get("http://localhost:3200/");
@@ -17,6 +18,40 @@ function App() {
   useEffect(() => {
     fetchData();
   }, []);
+
+  const handleClickMeal = (id, description, price, action) => {
+    const newTabOrder = [...tabOrder];
+    let isFound = false; // A-t-on trouvé l'iD ?
+    let elemToRemove = -1; // Element à supprimer si quantity nulle
+    newTabOrder.map((elem, index) => {
+      if (elem.id === id) {
+        action === "+" ? elem.quantity++ : elem.quantity--;
+        isFound = true;
+      }
+      if (!elem.quantity) {
+        elemToRemove = index;
+      }
+    });
+    if (!isFound)
+      newTabOrder.push({
+        id: id,
+        description: description,
+        price: price,
+        quantity: 1,
+      });
+    // Suppression si quantity nulle
+    if (elemToRemove >= 0) newTabOrder.splice(elemToRemove, 1);
+    setTabOrder(newTabOrder);
+  };
+
+  // Calcul du sous-total
+  const subTotal = () => {
+    let subTotal = 0;
+    tabOrder.map((elem) => {
+      subTotal += elem.quantity * elem.price;
+    });
+    return subTotal;
+  };
 
   return !isLoading ? (
     <div className="App">
@@ -39,26 +74,126 @@ function App() {
         <div className="block-categories">
           <div className="restaurant-left-container">
             {data.categories.map((elem, index) => {
-              console.log("elem", elem);
-              return (
-                <div key={index} className="categories-container">
-                  <h2>{elem.name}</h2>
+              //console.log("elem", elem);
 
-                  <div className="categorie-container">
-                    {elem.meals.map((elem) => {
+              if (elem.meals.length) {
+                return (
+                  <div key={index} className="categories-container">
+                    <h2>{elem.name}</h2>
+
+                    <div className="categorie-container">
+                      {elem.meals.map((elem) => {
+                        return (
+                          <div
+                            key={elem.id}
+                            className="meal-container"
+                            onClick={() => {
+                              handleClickMeal(
+                                elem.id,
+                                elem.title,
+                                elem.price,
+                                "+"
+                              );
+                            }}
+                          >
+                            <div>
+                              <h3 className="title-meal">{elem.title}</h3>
+                              {elem.description && (
+                                <div className="description-container">
+                                  <p>{elem.description}</p>
+                                </div>
+                              )}
+                              <div className="price-popular-container">
+                                <p>{elem.price} €</p>
+                                {elem.popular && (
+                                  <p style={{ color: "orange" }}>popular</p>
+                                )}
+                              </div>
+                            </div>
+                            <div className="image-meal">
+                              {elem.picture ? (
+                                <img src={elem.picture} alt="Image"></img>
+                              ) : null}
+                            </div>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                );
+              } else {
+                return null;
+              }
+            })}
+          </div>
+          <div className="restaurant-right-container">
+            <div className="panier">
+              <button className={tabOrder.length ? "button-on" : "button-off"}>
+                Valider mon panier
+              </button>
+              <div className="panier-content">
+                {!tabOrder.length
+                  ? "Votre panier est vide "
+                  : tabOrder.map((elem) => {
                       return (
-                        <div key={elem.id} className="elem-container">
-                          {elem.title}
+                        <div className="panier-element" key={elem.id}>
+                          <div className="quantity-desc-container">
+                            <div
+                              className="plus-minus"
+                              onClick={() => {
+                                handleClickMeal(
+                                  elem.id,
+                                  elem.title,
+                                  elem.price,
+                                  "-"
+                                );
+                              }}
+                            >
+                              -
+                            </div>
+                            <div>{elem.quantity}</div>
+                            <div
+                              className="plus-minus"
+                              onClick={() => {
+                                handleClickMeal(
+                                  elem.id,
+                                  elem.title,
+                                  elem.price,
+                                  "+"
+                                );
+                              }}
+                            >
+                              +
+                            </div>
+                            <div>{elem.description}</div>
+                          </div>
+                          <div>
+                            <div>{elem.price}</div>
+                          </div>
                         </div>
                       );
                     })}
+
+                {tabOrder.length ? (
+                  <div className="subtotal-container">
+                    <div className="subtotal-container-line">
+                      <div>sous-total : </div>
+                      <div>{subTotal()} </div>
+                    </div>
+                    <div className="subtotal-container-line">
+                      <div>Frais de livraison : </div>
+                      <div>2.5 €</div>
+                    </div>
+                    <div className="subtotal-container-line">
+                      <div>Total : </div>
+                      <div>{subTotal() + 2.5}</div>
+                    </div>
                   </div>
-                </div>
-              );
-            })}
-          </div>{" "}
+                ) : null}
+              </div>
+            </div>
+          </div>
         </div>
-        <div className="restaurant-right-container"></div>
       </main>
     </div>
   ) : (

@@ -1,22 +1,32 @@
 @import url("./fonts.css");
-
+* {
+  box-sizing: border-box;
+}
 html {
-  font-family: "Stratos Deliveroo Web";
+  font-family: "IBM Plex Sans";
 }
 body {
-  max-width: 1024px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 h1 {
   font-size: 2.5rem;
   font-weight: bold;
+  margin-bottom: 1rem;
 }
 
 h2 {
   font-size: 1.5rem;
   font-weight: bold;
+  text-align: left;
+  margin-bottom: 1rem;
 }
+
+h3 {
+  font-size: 1.2rem;
+}
+
 .header-container {
   display: flex;
   justify-content: flex-start;
@@ -40,30 +50,149 @@ h2 {
 .restaurant-right-container {
   flex: 1;
 }
+
 .restaurant-container img {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 300px;
   object-fit: cover;
+  border-radius: 10px;
 }
 
 .categories-container {
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
+  /* border: 1px solid black; */
+}
+
+.block-categories {
+  background-color: lightgray;
 }
 
 .categorie-container {
   display: flex;
   flex-wrap: wrap;
-}
-
-.elem-container {
-  flex: 1;
-  flex-shrink: 0;
-  border: 1px solid black;
+  /* border: 2px solid blue; */
+  margin: 1rem;
 }
 
 .block-categories {
   display: flex;
+}
+
+.description-container {
+  /* border: solid black 2px; */
+  height: 33px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.title-meal {
+  color: grey;
+}
+
+.image-meal img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.meal-container {
+  /* border: 1px solid red; */
+  width: 48%;
+  display: flex;
+  height: 200px;
+  border-radius: 10px;
+  justify-content: space-between;
+  background-color: white;
+  padding: 1rem;
+  margin: 5px;
+}
+
+.price-popular-container {
+  display: flex;
+}
+
+.price-popular-container p {
+  margin-right: 20px;
+}
+
+.panier {
+  width: 99%;
+  min-height: 200px;
+  background-color: white;
+  /* border: solid 1px black; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+.button-off {
+  color: grey;
+  background: #bac3c3;
+}
+
+.button-on {
+  color: white;
+  background: #00cdbd;
+}
+button {
+  height: 50px;
+  width: 90%;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+  color: grey;
+  background: #bac3c3;
+}
+
+.panier-content {
+  color: grey;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 0.8rem;
+  width: 100%;
+}
+
+.panier-element {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 3px;
+  align-items: center;
+}
+
+.quantity-desc-container {
+  display: flex;
+  align-items: center;
+}
+
+.plus-minus {
+  border: 2px lightblue solid;
+  border-radius: 50%;
+  cursor: pointer;
+  color: lightblue;
+  height: 25px;
+  width: 25px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 3px;
+}
+
+.subtotal-container {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.subtotal-container-line {
+  display: flex;
+  justify-content: space-between;
 }
