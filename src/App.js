@@ -172,7 +172,7 @@ function App() {
                             <div>{elem.description}</div>
                           </div>
                           <div>
-                            <div>{elem.price}</div>
+                            <div>{(elem.price * elem.quantity).toFixed(2)}</div>
                           </div>
                         </div>
                       );
@@ -182,7 +182,7 @@ function App() {
                   <div className="subtotal-container">
                     <div className="subtotal-container-line">
                       <div>sous-total : </div>
-                      <div>{subTotal()} </div>
+                      <div>{subTotal().toFixed(2)} </div>
                     </div>
                     <div className="subtotal-container-line">
                       <div>Frais de livraison : </div>
@@ -190,7 +190,7 @@ function App() {
                     </div>
                     <div className="subtotal-container-line">
                       <div>Total : </div>
-                      <div>{subTotal() + 2.5}</div>
+                      <div>{(subTotal() + 2.5).toFixed(2)}</div>
                     </div>
                   </div>
                 ) : null}
