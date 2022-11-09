@@ -9,7 +9,10 @@ function App() {
   const [tabOrder, setTabOrder] = useState([]);
 
   const fetchData = async () => {
-    const response = await axios.get("http://localhost:3200/");
+    // const response = await axios.get("http://localhost:3200/");
+    const response = await axios.get(
+      "https://site--deliveroo-backend--fqvvk7kgjqkf.code.run"
+    );
     // console.log(response.data);
     setData(response.data);
     setIsLoading(false);
