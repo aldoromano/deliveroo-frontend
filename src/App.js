@@ -34,6 +34,7 @@ function App() {
       if (!elem.quantity) {
         elemToRemove = index;
       }
+      return 0;
     });
     if (!isFound)
       newTabOrder.push({
@@ -51,7 +52,7 @@ function App() {
   const subTotal = () => {
     let subTotal = 0;
     tabOrder.map((elem) => {
-      subTotal += elem.quantity * elem.price;
+      return (subTotal += elem.quantity * elem.price);
     });
     return subTotal;
   };
@@ -70,7 +71,7 @@ function App() {
             <p>{data.restaurant.description}</p>
           </div>
           <div className="restaurant-right-container">
-            <img src={data.restaurant.picture}></img>
+            <img src={data.restaurant.picture} alt="restaurant"></img>
           </div>
         </div>
 
@@ -115,7 +116,7 @@ function App() {
                             </div>
                             <div className="image-meal">
                               {elem.picture ? (
-                                <img src={elem.picture} alt="Image"></img>
+                                <img src={elem.picture} alt="meal"></img>
                               ) : null}
                             </div>
                           </div>
